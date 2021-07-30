@@ -1,0 +1,25 @@
+module.exports = [
+
+    require('./Pikachu').object,
+    require('./Raichu').object,
+    require('./Form/AlolanPikachu').object,
+    require('./Form/AlolanRaichu').object,
+    require('./Mega/Raichu').object,
+    require('./Form/Ranchu').object,
+    require('./Form/Ash').object,
+    require('./Form/Roquera').object,
+    require('./Form/Erudita').object,
+    require('./Form/Superstar').object,
+    require('./Form/Aristócrata').object,
+    require('./Form/Enmascarada').object,
+    require('./Form/Hoenn').object,
+    require('./Form/Sinnoh').object,
+    require('./Form/Teselia').object,
+    require('./Form/Kalos').object,
+    require('./Form/Alola').object,
+    require('./Form/Compañero').object,
+    require('./Form/Mimichu').object,
+    require('./Form/Trotamundos').object,
+    require('./Gigamax/Pikachu').object,
+
+]

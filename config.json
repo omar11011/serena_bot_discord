@@ -1,0 +1,28 @@
+{
+  "bot": {
+    "id": "",
+    "top_gg": "",
+    "name": "Serena",
+    "token": "",
+    "publicKey": "",
+    "clientSecret": "",
+    "invite_bot": "",
+    "invite_server": "https://discord.gg/2RPCdgg",
+    "invite_serena": "https://discord.com/oauth2/authorize?client_id=682622549104001063&scope=bot&permissions=470281456",
+    "owner": ["422521493126250506", "745059196944252928"],
+    "color": "#ffafcc"
+  },
+  "dev": {
+    "token": ""
+  },
+  "client": {
+    "url": "https://serenabot.xyz/"
+  },
+  "offert": {
+    "shop_money": 0,
+    "shop_gem": 0
+  },
+  "logs": {
+    "public": ""
+  }
+}

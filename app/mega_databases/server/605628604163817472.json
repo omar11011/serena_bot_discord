@@ -1,0 +1,23 @@
+{
+  "boost": 2,
+  "prefix": "s!",
+  "channels": {
+    "log": "605628604163817476",
+    "welcome": null,
+    "spawn": [
+      "605628604163817476"
+    ]
+  },
+  "perma": {
+    "mute": [],
+    "ban": []
+  },
+  "ignore": [],
+  "welcome": {
+    "description": "Esperamos que disfrutes tu estadía en nuestro servidor.",
+    "footer": null,
+    "timestamp": true,
+    "theme": "black"
+  },
+  "count-spawn": 1
+}

@@ -1,0 +1,34 @@
+{
+  "832039248731176973": {
+    "db": {
+      "pokemon": "Simipour",
+      "name": "Simipour",
+      "shiny": false,
+      "gender": "Macho",
+      "nature": "Amable",
+      "level": 40,
+      "hp": 24,
+      "attack": 18,
+      "defense": 4,
+      "spattack": 31,
+      "spdefense": 24,
+      "speed": 23,
+      "iv": "66.67",
+      "friendship": 50
+    },
+    "hpTotal": 120,
+    "hp": 54,
+    "status": {
+      "number": 1.5,
+      "nombre": "Paralizado"
+    },
+    "categoria": "Normal",
+    "habitat": "Bosque",
+    "tipo": [
+      "Agua"
+    ],
+    "speed": 101,
+    "ratio": 75,
+    "pokemonId": 515
+  }
+}

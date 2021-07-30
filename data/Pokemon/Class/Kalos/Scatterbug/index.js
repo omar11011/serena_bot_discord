@@ -1,0 +1,26 @@
+module.exports = [
+
+    require('./Scatterbug').object,
+    require('./Spewpa').object,
+    require('./Vivillon').object,
+    require('./Form/Continental').object,
+    require('./Form/Desierto').object,
+    require('./Form/Estepa').object,
+    require('./Form/Fantasia').object,
+    require('./Form/Isleño').object,
+    require('./Form/Jungla').object,
+    require('./Form/Marino').object,
+    require('./Form/Moderno').object,
+    require('./Form/Monzon').object,
+    require('./Form/Oasis').object,
+    require('./Form/Oceano').object,
+    require('./Form/Oriental').object,
+    require('./Form/Pantano').object,
+    require('./Form/PokeBall').object,
+    require('./Form/Polar').object,
+    require('./Form/Solar').object,
+    require('./Form/Taiga').object,
+    require('./Form/Tundra').object,
+    require('./Form/Vergel').object,
+
+]

@@ -1,0 +1,25 @@
+{
+  "prefix": "!",
+  "channels": {
+    "log": "832039248731176973",
+    "welcome": "832039248731176973",
+    "spawn": [
+      "832039248731176973"
+    ]
+  },
+  "welcome": {
+    "description": "Keonda gente ojala se diviertan",
+    "footer": "dou es gei gent",
+    "timestamp": true,
+    "theme": "pink",
+    "channel": "832039248731176973"
+  },
+  "boost": 0,
+  "afk": [],
+  "ignore": [],
+  "perma": {
+    "mute": [],
+    "ban": []
+  },
+  "count-spawn": 5
+}

@@ -1,0 +1,6 @@
+{   
+    "ignore": [
+        "app/mega_databases",
+        "client/public"
+    ] 
+}

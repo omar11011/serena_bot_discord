@@ -1,0 +1,34 @@
+{
+  "677897463532879882": {
+    "db": {
+      "pokemon": "Ditto",
+      "name": "Ditto",
+      "shiny": false,
+      "gender": "Ninguno",
+      "nature": "Agitada",
+      "level": 49,
+      "hp": 31,
+      "attack": 31,
+      "defense": 21,
+      "spattack": 19,
+      "spdefense": 22,
+      "speed": 31,
+      "iv": "83.33",
+      "friendship": 50
+    },
+    "hpTotal": 121,
+    "hp": 78,
+    "status": {
+      "number": 1.5,
+      "nombre": "Envenenado"
+    },
+    "categoria": "Normal",
+    "habitat": "Ciudad",
+    "tipo": [
+      "Normal"
+    ],
+    "speed": 48,
+    "ratio": 35,
+    "pokemonId": 132
+  }
+}
