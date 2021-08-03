@@ -12,7 +12,7 @@
 
 # Introducción
 
-Serena, un simple *(como dice el nombre)*, multipropósito Discord Bot escrito en JavaScript, usando el paquete de [discord.js](https://discord.js.org/#/) como API.
+Serena, Discord Bot escrito en JavaScript, usando el paquete de [discord.js](https://discord.js.org/#/) como API.
 El objetivo de este bot es proporcionar herramientas de propósito general, juegos, de administración y de seguridad, manteniendo la estabilidad, la fiabilidad y la mantenibilidad.
 
 ---
