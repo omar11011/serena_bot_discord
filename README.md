@@ -3,7 +3,7 @@
     <hr>
     <h1>~ Serena ~</h1>
     <strong>
-        Un simple bot de discord multipropósito escrito en Js (discord.js.org)<br>
+        Un simple bot de discord multipropósito escrito en JS (discord.js.org)<br>
         con un enfoque en la estabilidad y la fiabilidad
     </strong><br><br>
 </div>
