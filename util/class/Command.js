@@ -18,7 +18,7 @@ class Command {
         // Módulos
         this.log = require('./Log')
         this.client = require('./Client')
-        this.duel = require('../../data/Duelo')
+        this.duel = require('./Duel')
         this.trade = require('./Trade')
         this.bj = require('./Blackjack')
         this.breed = require('./Breed')

@@ -1,30 +1,39 @@
 {
-  "name": "serena",
-  "version": "4.0.0",
-  "description": "",
+  "name": "serena_bot_discord",
+  "version": "1.0.0",
+  "description": "<div align=\"center\">     <img src=\"https://raw.githubusercontent.com/omar11011/serena_bot_discord/master/client/public/img/welcome/default.png\" width=\"100%\" />     <hr>     <h1>~ Serena ~</h1>     <strong>         Un simple bot de discord multipropósito escrito en JS (discord.js.org)<br>         con un enfoque en la estabilidad y la fiabilidad     </strong><br><br> </div>",
   "main": "index.js",
   "scripts": {
     "start": "nodemon app/index"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/omar11011/serena_bot_discord.git"
+  },
   "keywords": [],
-  "author": "Omar Antonio Atarama Chanduví",
+  "author": "",
   "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  },
   "dependencies": {
-    "canvas": "^2.7.0",
-    "chalk": "^4.1.0",
+    "canvas": "^2.9.0",
+    "chalk": "^2.4.1",
     "dblapi.js": "^2.4.1",
     "discord-paginationembed": "^2.1.0",
     "discord.js": "^12.5.3",
-    "dotenv": "^8.2.0",
-    "express": "^4.17.1",
-    "figlet": "^1.5.0",
+    "dotenv": "^16.0.0",
+    "expres": "^0.0.5",
+    "figlet": "^1.5.2",
     "megadb": "^3.4.0",
     "moment": "^2.29.1",
     "morgan": "^1.10.0",
-    "mysql2": "^2.2.5",
-    "nodemon": "^2.0.7",
+    "mysql2": "^2.3.3",
     "request": "^2.88.2",
-    "sequelize": "^6.6.2"
+    "sequelize": "^6.17.0"
   },
-  "devDependencies": {}
+  "bugs": {
+    "url": "https://github.com/omar11011/serena_bot_discord/issues"
+  },
+  "homepage": "https://github.com/omar11011/serena_bot_discord#readme"
 }
